@@ -37,6 +37,12 @@ The new visual direction takes the faceted, photographic feeling of the OpenProc
 
 The physical object can be a soft fabric or foam pad over the FSR. A small rigid disk under the pad concentrates the force, so the hand feels like it is striking a surface rather than operating a tiny sensor. Put the potentiometer beside it as a rotary **tension** control.
 
+## Demo video
+
+[![Impact Archive demo — click to play](media/impact-archive-demo-poster.jpg)](https://huanggedv.github.io/impact-archive/media/impact-archive-demo.mp4)
+
+▶ [Watch the demo (2:25)](https://huanggedv.github.io/impact-archive/media/impact-archive-demo.mp4) · [download MP4](media/impact-archive-demo.mp4) — the piece running with the Arduino FSR and potentiometer connected.
+
 ## Try it without Arduino (mouse / touch)
 
 The website works on its own — the mouse stands in for the sensors:
